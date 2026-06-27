@@ -11,6 +11,134 @@ O objetivo deste projeto é fornecer um material completo, organizado e totalmen
 
 ---
 
+██████╗ ██╗  ██╗██████╗
+██╔══██╗██║  ██║██╔══██╗
+██████╔╝███████║██████╔╝
+██╔═══╝ ██╔══██║██╔═══╝
+██║     ██║  ██║██║
+╚═╝     ╚═╝  ╚═╝╚═╝
+
+PHP Para Iniciantes - Curso Open Source
+
+PHP 8
+
+Open Source
+
+MIT
+
+Beginner Friendly
+
+Contributions Welcome
+
+Stars
+
+Forks
+
+Issues
+
+Pull Requests
+
+Made with Love
+
+---
+
+✅ Introdução
+
+✅ Ambiente
+
+⬜ Variáveis
+
+⬜ Constantes
+
+⬜ Operadores
+
+⬜ IF
+
+⬜ Switch
+
+⬜ While
+
+⬜ Do While
+
+⬜ For
+
+⬜ Arrays
+
+⬜ Funções
+
+⬜ Forms
+
+⬜ Sessões
+
+⬜ Cookies
+
+⬜ Banco de Dados
+
+⬜ CRUD
+
+⬜ Projeto Final
+
+---
+Curso
+
+████████░░░░░░░░░░ 40%
+
+Exercícios
+
+██████████████░░░░ 70%
+
+Projetos
+
+█████░░░░░░░░░░░░░ 25%
+
+---
+
+📁 Aulas
+
+001 Introdução
+
+002 Variáveis
+
+003 Operadores
+
+004 IF
+
+005 Switch
+
+006 While
+
+007 For
+
+008 Arrays
+
+009 Funções
+
+010 Banco de Dados
+
+---
+
+✔ Calculadora
+
+✔ Conversor de Moedas
+
+✔ Sistema de Login
+
+✔ Agenda
+
+✔ Cadastro de Produtos
+
+✔ Estoque
+
+✔ Blog
+
+✔ Sistema Financeiro
+
+✔ CRUD Completo
+
+✔ Mini ERP
+
+---
+
 # 📚 Conteúdo
 
 * Introdução ao PHP
