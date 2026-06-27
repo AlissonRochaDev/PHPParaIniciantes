@@ -162,26 +162,6 @@ Projetos
 
 ---
 
-# 📁 Estrutura do Projeto
-
-```text
-PHPParaIniciantes/
-
-├── aulas/
-├── exemplos/
-├── desafios/
-├── projetos/
-├── imagens/
-├── recursos/
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-└── CHANGELOG.md
-```
-
----
-
 # 🎯 Objetivos
 
 * Ensinar PHP do zero
